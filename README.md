@@ -1,4 +1,7 @@
 # 737EK
+
+(MODEL IS ONLY IN MODELLING STAGE)
+
 737-100 and 200 for flightgear
 version going to be included,
 737-100
